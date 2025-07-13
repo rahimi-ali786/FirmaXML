@@ -1,0 +1,32 @@
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.exe
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.deps.json
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.runtimeconfig.json
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.pdb
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.Form1.resources
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.csproj.GenerateResource.cache
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.AssemblyInfoInputs.cache
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.AssemblyInfo.cs
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.csproj.CoreCompileInputs.cache
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\refint\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.pdb
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.genruntimeconfig.cache
+C:\Users\Ali Rahimi\Desktop\klausur C#\FirmaXML\obj\Debug\net8.0-windows\ref\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.exe
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.deps.json
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.runtimeconfig.json
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\bin\Debug\net8.0-windows\FirmaXML.pdb
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.Form1.resources
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.csproj.GenerateResource.cache
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.AssemblyInfoInputs.cache
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.AssemblyInfo.cs
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.csproj.CoreCompileInputs.cache
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\refint\FirmaXML.dll
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.pdb
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\FirmaXML.genruntimeconfig.cache
+C:\Users\Ali Rahimi\Desktop\Projects on GitHub\FirmaXML\obj\Debug\net8.0-windows\ref\FirmaXML.dll
